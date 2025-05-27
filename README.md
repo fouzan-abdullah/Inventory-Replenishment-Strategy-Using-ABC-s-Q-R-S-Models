@@ -1,4 +1,4 @@
-# Inventory-Replenishment-Policy-Optimization-Using-Data-Analytics
+### Inventory-Replenishment-Policy-Optimization-Using-Data-Analytics
 Analyzed and optimized inventory policies using 4 months of transaction and sales data. Segmented SKUs using ABC classification and implemented replenishment models.
 Key Features:
 •	Processed 19K+ rows of transaction data; identified 516 A-items (80% revenue).
